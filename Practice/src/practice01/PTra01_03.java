@@ -8,7 +8,9 @@ package practice01;
 
 public class PTra01_03 {
 	public static void main(String[] args) {
-
+		int age;	    // 
+        age = 10;	    // 
+        System.out.print(age);    // 
 		// ★ int型の変数 i を宣言してください
 
 
@@ -16,7 +18,12 @@ public class PTra01_03 {
 
 
 		// ★ 変数 i に入っている値を出力してください
-		System.out.println(i);
+		
+		 
+		 
+	    }
+	
+
 
 	}
-}
+

@@ -8,6 +8,9 @@ package practice01;
 
 public class PTra01_04 {
 	public static void main(String[] args) {
+		
+		float PI = 3.14F;
+        System.out.println(PI);
 
 		// ★ float型の変数 f を宣言してください
 
@@ -16,6 +19,8 @@ public class PTra01_04 {
 
 
 		// ★ 変数 f を出力してください
+
+		
 
 
 	}

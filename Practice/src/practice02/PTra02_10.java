@@ -21,6 +21,24 @@ public class PTra02_10 {
 		 * ※ 日本円には小数点がありませんので、整数の値で出力してください(少数部分は切り捨て)
 		 * ※ プログラムは何行書いても良いです
 		 */
+		
+		
+		int total = (coffee * 2 + snack);
+		
+		 total *= 1.08;
+		 
+		 total -= 1000;
+		 
+		 System.out.println(total);
+
+		
+
+
+
+		
+		
+		
+
 
 	}
 }
